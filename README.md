@@ -26,5 +26,4 @@ Mr. Pankaj Kapoor
 
 ## Contacts
 Feel free to contact us if you have any further queries, at:
-<jitendra.singh_cs18@gla.ac.in>,
-<vivek.goyal_cs18@gla.ac.in> .
+<jitendra.singh_cs18@gla.ac.in>.
