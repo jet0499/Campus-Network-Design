@@ -23,3 +23,8 @@ VI - Final Presentation 30-April-21
 
 # Project Mentor:
 Mr. Pankaj Kapoor
+
+## Contacts
+Feel free to contact us if you have any further queries, at:
+<jitendra.singh_cs18@gla.ac.in>,
+<vivek.goyal_cs18@gla.ac.in> .
