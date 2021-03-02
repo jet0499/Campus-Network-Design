@@ -10,10 +10,15 @@ The aim of this project is to design the topology of the university network usin
 
 # Project Schedule:
 I Apply online 8-Feb-21
+
 II Mentor allocation 22-Feb-21
+
 III Synopsis submission   26-Feb-21
+
 IV Mid Term Report 15-March-21
+
 V Project Submission to Mentor 15-April-21
+
 VI Final Presentation 30-April-21
 
 # Project Mentor:
