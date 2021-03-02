@@ -1,4 +1,4 @@
-**Updated November 27, 2020**
+**Updated March 02, 2021**
 
 # Campus-Network-Design
 The aim of this project is to design the topology of the university network using the software Cisco Packet Tracer.
